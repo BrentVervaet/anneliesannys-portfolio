@@ -20,29 +20,29 @@
 	"dependencies": {
 		"@unhead/vue": "^3.4.3",
 		"unhead": "^3.4.3",
-		"vue": "^3.5.44",
+		"vue": "^3.5.45",
 		"vue-router": "^5.4.0",
 		"web-vitals": "^5.3.0"
 	},
 	"devDependencies": {
-		"@tailwindcss/postcss": "^4.3.3",
+		"@tailwindcss/postcss": "^4.3.5",
 		"@tsconfig/node22": "^22.0.6",
-		"@types/node": "^26.6.5",
+		"@types/node": "^26.6.6",
 		"@vitejs/plugin-vue": "^6.0.10",
 		"@vue/eslint-config-prettier": "^10.2.0",
 		"@vue/eslint-config-typescript": "^14.9.0",
 		"@vue/tsconfig": "^0.9.1",
-		"autoprefixer": "^10.6.1",
-		"eslint": "^10.13.0",
+		"autoprefixer": "^10.6.2",
+		"eslint": "^10.14.0",
 		"eslint-plugin-vue": "~10.9.2",
 		"jiti": "^2.7.0",
 		"npm-run-all2": "^9.0.4",
-		"postcss": "^8.5.31",
+		"postcss": "^8.5.32",
 		"prettier": "3.9.5",
-		"tailwindcss": "^4.3.3",
+		"tailwindcss": "^4.3.5",
 		"typescript": "^6.0.3",
-		"vite": "^8.3.5",
+		"vite": "^8.3.6",
 		"vite-plugin-vue-devtools": "^8.2.1",
-		"vue-tsc": "^3.3.13"
+		"vue-tsc": "^3.3.14"
 	}
 }
